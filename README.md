@@ -2,4 +2,3 @@
 - 👀 I’m interested in learning new things/ finding a job for summer
 - 🌱 I’m currently learning Rust
 - 📫 How to reach me by x: @f_czajkowski
-- ⚡ Fun fact: i love pasta
