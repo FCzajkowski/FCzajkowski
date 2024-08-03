@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @FCzajkowski
 - 👀 I’m interested in learning new things/ finding a job for summer
-- 🌱 I’m currently learning GO
+- 🌱 I’m currently learning Rust
 - 📫 How to reach me by x: @f_czajkowski
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: i love pasta
