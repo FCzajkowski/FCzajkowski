@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @FCzajkowski
 - 👀 I’m interested in learning new things/ finding a job for summer
-- 🌱 I’m currently learning Rust
+- 🌱 I’m currently learning Python
 - 📫 How to reach me by x: @f_czajkowski
