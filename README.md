@@ -14,7 +14,7 @@
 <p align="center"><a href="FCzajkowski@proton.me" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="44" style="margin-right: 4px"></a>
 <a href="https://twitter.com/f_czajkowski" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white" height="44" style="margin-right: 4px"></a></p>
 
- **<h3 align="left">🚀 Young Frontend/Desktop Developer with a sharp eye for optimalization. Skilled in Python, Rust & Frontend, creating clean, efficient code and intuitive user interfaces. Always learning and passionate about blending functionality with aesthetics.</h3>**
+  **<h3 align="left">🚀 Young Frontend/Desktop Developer with a sharp eye for optimalization. Skilled in Python, Rust & Frontend, creating clean, efficient code and intuitive user interfaces. Always learning and passionate about blending functionality with aesthetics.</h3>**
 
 **<h3 align="left">Rapid Fire</h3>**
 
@@ -30,10 +30,10 @@
  **<h3 align="left">GitHub Stats</h3>**
 
 <p align="left">
-  <img width="48%" src="https://streak-stats.demolab.com/?user=FCzajkowski&theme=default&hide_border=false&border_radius=4.5&date_format=M+j%5B%2C+Y%5D&mode=daily&disable_animations=false&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&exclude_days=&locale=en&card_height=200" alt="GitHub streak Card" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=FCzajkowski&theme=default&cache_seconds=1800&border_radius=4&hide_title=false&layout=compact&langs_count=5&card_width=400&hide_progress=false" alt="GitHub top-langs Card" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=FCzajkowski&theme=transparent&hide_border=false&border_radius=4.5&date_format=d+F%5B%2C+Y%5D&mode=daily&disable_animations=false&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=true&exclude_days=&locale=en&card_height=200" alt="GitHub streak Card" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=FCzajkowski&theme=transparent&cache_seconds=1800&border_radius=4&hide_title=false&layout=compact&langs_count=10&card_width=400&hide_progress=false" alt="GitHub top-langs Card" />
 </p>
 
  **<h3 align="center">Support Me</h3>**
 
-<p align="center"><a href="https://ko-fi.com/https://ko-fi.com/fczajkowsk" target="_blank"><img src="https://img.shields.io/badge/Ko--fi-343B45?style=for-the-badge&logo=kofi&logoColor=Black" height="48" style="margin-right: 4px"></a></p>
+<p align="center"><a href="https://ko-fi.com/fczajkowski" target="_blank"><img src="https://img.shields.io/badge/Ko--fi-343B45?style=for-the-badge&logo=kofi&logoColor=Black" height="48" style="margin-right: 4px"></a></p>
