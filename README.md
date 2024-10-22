@@ -4,7 +4,7 @@
   <ul align="center" style="list-style: none">
     <summary>
       <h1>
-        👋 Hello, My Name is Franciszek Czajkowski👋
+        👋 Hi, My Name is Franciszek Czajkowski👋
       </h1>
     </summary>
   </ul>
@@ -18,8 +18,8 @@
 
 **<h3 align="left">Rapid Fire</h3>**
 
-- 💼 I'm currently working on: **💻 Free OpenSource WebBrowser in python**
-- 🌱 I'm currently learning: **📚 Rust & C**
+- 💼 I'm currently working on: **💻 Some Random Video Game**
+- 🌱 I'm currently learning: **📚 PyGame & Rust*
 - ⚡ Fun fact: **🎢 I once debugged friend's Java Code, while being at party**
 - 📂 Portfolio: **<a href=":C" target="_blank">:C</a>**
 
