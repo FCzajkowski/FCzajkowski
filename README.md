@@ -14,7 +14,7 @@
 <p align="center"><a href="FCzajkowski@proton.me" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="44" style="margin-right: 4px"></a>
 <a href="https://twitter.com/f_czajkowski" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white" height="44" style="margin-right: 4px"></a></p>
 
-  **<h3 align="left">🚀 Young Frontend/Desktop Developer with a sharp eye for optimalization. Skilled in Python, Rust & Frontend, creating clean, efficient code and intuitive user interfaces. Always learning and passionate about blending functionality with aesthetics.</h3>**
+  **<h3 align="left">🚀 Young Frontend/Desktop Developer with a sharp eye for optimalization. Skilled in Python, Rust & Frontend, creating clean, efficient code and intuitive user interfaces. Always learning about blending functionality with aesthetics.</h3>**
 
 **<h3 align="left">Rapid Fire</h3>**
 
