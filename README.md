@@ -20,7 +20,7 @@
 
 - 💼 I'm currently working on: **💻 Some Random Video Game**
 - 🌱 I'm currently learning: **📚 PyGame & Rust*
-- ⚡ Fun fact: **🎢 I once debugged friend's Java Code, while being at party**
+- ⚡ Fun fact: **🎢 I once debugged friend's Java Code, while being at party, even though I dont know Java**
 - 📂 Portfolio: **<a href=":C" target="_blank">:C</a>**
 
  **<h3 align="center">Skills</h3>**
