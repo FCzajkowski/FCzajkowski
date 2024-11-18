@@ -21,7 +21,7 @@
 - 💼 I'm currently working on: **💻 Some Random Video Game**
 - 🌱 I'm currently learning: **📚 PyGame & Rust*
 - ⚡ Fun fact: **🎢 I once debugged friend's Java Code, while being at party, even though I dont know Java**
-- 📂 Portfolio: **<a href=":C" target="_blank">:C</a>**
+- 📂 Portfolio: **<a href="https://fczajkowski.github.io/Portfolio/" target="_blank">https://fczajkowski.github.io/Portfolio/</a>**
 
  **<h3 align="center">Skills</h3>**
 
