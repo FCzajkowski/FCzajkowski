@@ -17,12 +17,14 @@
 
   **<h3 align="left">🚀 Young Frontend/Desktop Developer with a sharp eye for optimalization. Skilled in Python, Rust & Frontend, creating clean, efficient code and intuitive user interfaces. Always learning about blending functionality with aesthetics.</h3>**
 
+
 **<h3 align="left">Rapid Fire</h3>**
 
 - 💼 I'm currently working on: **💻 Some Random Video Game**
 - 🌱 I'm currently learning: **📚 PyGame & Rust*
 - ⚡ Fun fact: **🎢 I once debugged friend's Java Code, while being at party, even though I dont know Java**
 - 📂 Portfolio: **<a href="https://fczajkowski.github.io/Portfolio/" target="_blank">https://fczajkowski.github.io/Portfolio/</a>**
+- 💻 Fiverr Offer: **<a href="https://www.fiverr.com/s/BR0m0kk" target="_blank">https://www.fiverr.com/s/BR0m0kk</a>**
 
  **<h3 align="center">Skills</h3>**
 
