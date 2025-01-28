@@ -32,8 +32,6 @@
 
  **<h3 align="left">GitHub Stats</h3>**
 
-<p align="left">
-  <img width="48%" src="https://streak-stats.demolab.com/?user=FCzajkowski&theme=transparent&hide_border=false&border_radius=4.5&date_format=d+F%5B%2C+Y%5D&mode=daily&disable_animations=false&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=true&exclude_days=&locale=en&card_height=200" alt="GitHub streak Card" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=FCzajkowski&theme=transparent&cache_seconds=1800&border_radius=4&hide_title=false&layout=compact&langs_count=10&card_width=400&hide_progress=false" alt="GitHub top-langs Card" />
 </p>
 
