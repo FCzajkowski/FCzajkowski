@@ -1,6 +1,6 @@
 ![👋 Hello, My Name is Franciszek Czajkowski👋](heder.jpg)
 # 💫 About Me:
-📌 Fullstack / Software Developer<br><br>🔭 I’m currently working on Hajime-Framework<br>🌱 I’m currently learning Typescript
+📌 Fullstack / Software Developer<br><br>🔭 I’m currently working on Redis Alternative<br>🌱 I’m currently learning Rust
 
 
 ## 🌐 Socials:
