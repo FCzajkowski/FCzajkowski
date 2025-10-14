@@ -1,7 +1,7 @@
 
 ![👋 Hello, My Name is Franciszek Czajkowski👋](heder.jpg)
 # 💫 About Me:
-📌 Fullstack / Software Developer<br><br>🔭 I’m currently working on Redis Alternative<br>🌱 I’m currently learning Rust
+📌 Fullstack / Software Developer<br><br>🔭 I’m currently working on Rust Operating System<br>🌱 I’m currently learning Sveltekit
 
 
 ## 🌐 Socials:
