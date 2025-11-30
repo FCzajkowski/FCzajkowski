@@ -3,7 +3,11 @@
 
 
 ## 🌐 Socials:
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/FCzajkowski) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:FCzajkowski@proton.me) 
+[![X](https://img.shields.io/badge/X-@fczajkowski-007f00?style=for-the-badge&color=black)](https://twitter.com/fczajkowski)
+
+[![GMAIL](https://img.shields.io/badge/GMAIL-franciszekczajkowski16@gmail.com-D14836?style=for-the-badge)](mailto:franciszekczajkowski16@gmail.com)
+
+![WEBSITE](https://img.shields.io/badge/WEBSITE-fczajkowski.netlify.app-A78BFA?style=for-the-badge)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=FCzajkowski&theme=transparent&hide_border=true&include_all_commits=false&count_private=false)<br/>
