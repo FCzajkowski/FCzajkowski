@@ -4,7 +4,7 @@ I mostly write in Svelte & SCSS, but also I use python & Rust <br>
 Besides that I use Figma & Canva for UI design
 
 ## Tools:
-- 🌐 Frontend: Svelte, SCSS, Bootstrap
+- 🌐 Frontend: Svelte, SCSS,React Bootstrap
 - 🗄️ Backend: Python, Rust, NodeJS, C#
 - 🗃️ Databases: MySQL
 - 🎨 Design: Figma & Canva
